@@ -4,7 +4,7 @@ public class SwitchStatment {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Masuka nomor hari (1 - 7) :");
+        System.out.println("Masukan nomor hari (1 - 7) :");
         int nomorHari = input.nextInt();
 
         String namaHari = "";

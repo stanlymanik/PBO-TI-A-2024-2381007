@@ -15,7 +15,7 @@ public class soal1 {
         if (bilangan[1] > bilangan[0]) {
             System.out.println(bilangan[1]);
         }else {
-            System.out.println(bilangan[0]);
+            System.out.println(bilangan[0] );
         }
     }
 }
